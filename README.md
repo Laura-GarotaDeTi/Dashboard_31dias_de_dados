@@ -11,6 +11,11 @@ O foco era responder perguntas sobre um site:
 📊 Mediana de visitas?
 
 
+Importamos os dados do excel para o power bi
+Fizemos o tratamento de dados no power query
+Usamos sql básico 
+Fizemos o layout no figma e importamos para o power bi
+
 ![Dashboard](Imagens/Dashboards.png)
 
 
