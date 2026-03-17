@@ -11,6 +11,6 @@ O foco era responder perguntas sobre um site:
 📊 Mediana de visitas?
 
 
-![Dashboard](imagens/Dashboards.png)
+![Dashboard](Imagens/Dashboards.png)
 
 
